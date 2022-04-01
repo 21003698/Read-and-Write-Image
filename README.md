@@ -19,8 +19,9 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-### Developed By:
-### Register Number: 
+### Developed By:challa sandeep
+### Register Number:212221240011
+
 i) #To Read,display the image
 import cv2
 colorImage = cv2.imread('/Users/kodurusanathkumarreddy/Desktop/cars.jpg',1)
