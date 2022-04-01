@@ -28,7 +28,6 @@ colorImage = cv2.imread('/Users/kodurusanathkumarreddy/Desktop/cars.jpg',1)
 cv2.imshow('212221240024-Read&Display',colorImage)
 cv2.waitKey(0)
 
-```
 ii) #To write the image
 import cv2
 colorImage = cv2.imread('/Users/kodurusanathkumarreddy/Desktop/cars.jpg',1)
