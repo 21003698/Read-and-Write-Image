@@ -62,7 +62,7 @@ import cv2
 color_img = cv2.imread('/Users/eswar1607/Desktop/flower.png',1)
 tag = color_img[50:250,100:300]
 color_img[100:300,50:250] = tag
-cv2.imshow('212221240035-CutAndPaste',color_img)
+cv2.imshow('212221240011-CutAndPaste',color_img)
 cv2.waitKey(0)
 ```
 
@@ -71,13 +71,13 @@ cv2.waitKey(0)
 ### i) Read and display the image
 
 <br>
-<img width="975" alt="Screenshot 2022-04-01 at 9 41 51 PM" src="https://user-images.githubusercontent.com/93427522/161303764-f30426ab-8ba3-4875-8b9d-89f5bd7ec9c1.png">
+![](sandeep1.jpg)
 <br>
 
 ### ii)Write the image
 
 <br>
-<img width="975" alt="Screenshot 2022-04-01 at 9 48 13 PM" src="https://user-images.githubusercontent.com/93427522/161303820-7d976d3d-8712-42e9-bf89-eb9413febd1a.png">
+![](sandeep2.jpg)
 <br>
 
 ### iii)Shape of the Image
@@ -88,12 +88,12 @@ cv2.waitKey(0)
 
 ### iv)Access rows and columns
 <br>
-<img width="975" alt="Screenshot 2022-04-01 at 9 47 06 PM" src="https://user-images.githubusercontent.com/93427522/161303840-356baed2-d648-4c26-a929-196dbdbb7941.png">
+![](sandeep3.jpg)
 <br>
 
 ### v)Cut and paste portion of image
 <br>
-<img width="975" alt="Screenshot 2022-04-01 at 9 49 40 PM" src="https://user-images.githubusercontent.com/93427522/161303872-36eafc44-d715-435d-90a4-d5de3deb595f.png">
+![](sandeep4.jpg)
 
 <br>
 
