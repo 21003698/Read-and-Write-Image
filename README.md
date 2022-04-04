@@ -87,13 +87,11 @@ cv2.waitKey(0)
 <br>
 
 ### iv)Access rows and columns
-<br>
-![Github Logo](sandeep3.png)
-<br>
+![github](sandeep3.png)
 
 ### v)Cut and paste portion of image
 <br>
-![Github Logo](sandeep4.png)
+![github](sandeep4.png)
 
 <br>
 
