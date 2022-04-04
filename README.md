@@ -71,13 +71,13 @@ cv2.waitKey(0)
 ### i) Read and display the image
 
 <br>
-![](sandeep1.jpg)
+![](sandeep1.png)
 <br>
 
 ### ii)Write the image
 
 <br>
-![](sandeep2.jpg)
+![](sandeep2.png)
 <br>
 
 ### iii)Shape of the Image
@@ -88,12 +88,12 @@ cv2.waitKey(0)
 
 ### iv)Access rows and columns
 <br>
-![](sandeep3.jpg)
+![](sandeep3.png)
 <br>
 
 ### v)Cut and paste portion of image
 <br>
-![](sandeep4.jpg)
+![](sandeep4.png)
 
 <br>
 
