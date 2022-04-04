@@ -69,16 +69,10 @@ cv2.waitKey(0)
 ## Output:
 
 ### i) Read and display the image
-
-<br>
 ![Github logo](sandeep1.png)
-<br>
 
 ### ii)Write the image
-
-<br>
 ![Github logo](sandeep2.png)
-<br>
 
 ### iii)Shape of the Image
 
@@ -90,10 +84,7 @@ cv2.waitKey(0)
 ![github](sandeep3.png)
 
 ### v)Cut and paste portion of image
-<br>
 ![github](sandeep4.png)
-
-<br>
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
