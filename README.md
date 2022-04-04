@@ -71,13 +71,13 @@ cv2.waitKey(0)
 ### i) Read and display the image
 
 <br>
-![](sandeep1.png)
+![Github logo](sandeep1.png)
 <br>
 
 ### ii)Write the image
 
 <br>
-![](sandeep2.png)
+![Github logo](sandeep2.png)
 <br>
 
 ### iii)Shape of the Image
@@ -88,12 +88,12 @@ cv2.waitKey(0)
 
 ### iv)Access rows and columns
 <br>
-![](sandeep3.png)
+![Github Logo](sandeep3.png)
 <br>
 
 ### v)Cut and paste portion of image
 <br>
-![](sandeep4.png)
+![Github Logo](sandeep4.png)
 
 <br>
 
